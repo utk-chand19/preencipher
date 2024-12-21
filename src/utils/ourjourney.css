@@ -1,0 +1,51 @@
+.our-journey {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .timeline {
+    position: relative;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .timeline-event {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 40px;
+    position: relative;
+    width: 50%;
+  }
+  
+  .timeline-event.left {
+    left: 0;
+  }
+  
+  .timeline-event.right {
+    left: 50%;
+  }
+  
+  .timeline-event .content {
+    background: #fff;
+    padding: 20px;
+    border-radius: 6px;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .timeline-event .image {
+    flex: 1;
+  }
+  
+  .timeline-event .image img {
+    width: 100%;
+    height: auto;
+    border-radius: 6px;
+  }
+  
+  @media screen and (max-width: 768px) {
+    .timeline-event {
+      width: 100%;
+      left: 0;
+    }
+  }
+  
