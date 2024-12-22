@@ -11,9 +11,8 @@ export function TimelineSection() {
     { date: "March 2024", event: "EncipherX 2.0 Cybersecurity Competition", description: "Building on the success of EncipherX 1.0, the second edition was even larger and more challenging. It attracted a wider range of participants and solidified the forum's standing." },
     { date: "April 2024", event: "Official Establishment of the Forum", description: "On April 23, 2024, the Phoenix CyberSecurity Forum was officially recognized as a part of the department. This milestone acknowledged the forum's contributions to the academic community." },
     { date: "July 2024", event: "Seminar Report: Mobile Security Awareness and Threats", description: "The Phoenix Club and the Cybersecurity Department held a seminar on Mobile Security Awareness and Threats featuring experts Onkar Sinha, Amit Prajapati, and Vishal Injewar, focusing on mobile security risks and practical data protection tips." },
-    { date: "July 2024", event: "Third Batch of Members Joined", description: "The Phoenix Cyber Security Forum welcomes its second batch of members, bringing fresh energy and strengthening our commitment to cybersecurity excellence." },
-    { date: "October 2024", event: "Phoenix Forum Triumphs at COLOSSEUM 15.0 Capture the Flag (CTF) event", description: "The Phoenix Cyber Security Forum welcomes its third batch of members, further enhancing our commitment to cybersecurity excellence." },
-    { date: "October 2024", event: "Fourth Batch of Members Joined", description: "Phoenix Forum members dominated COLOSSEUM 15.0 CTF, securing 1st and 2nd place, and proving their unmatched expertise in the cybersecurity challenge." }
+    { date: "July 2024", event: "Third Batch of Members Joined", description: "The Phoenix Cyber Security Forum welcomes its third batch of members, further enriching the forum's community and expanding its impact and devlopment of annual CTF event EncipherX3.O" },
+    { date: "October 2024", event: "Phoenix Forum Triumphs at COLOSSEUM 15.0 Capture the Flag (CTF) event", description: "Phoenix Forum members dominated COLOSSEUM 15.0 CTF, securing 1st and 2nd place, and proving their unmatched expertise in the cybersecurity challenge." } 
   ]
 
   return (

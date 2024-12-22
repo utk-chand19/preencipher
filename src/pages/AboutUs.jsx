@@ -62,7 +62,7 @@ const AboutContent = () => (
           Our Story
         </h2>
         <p className="text-gray-300 text-lg leading-relaxed text-center">
-          Phoenix is a student-led cybersecurity club at SRMIST, dedicated to fostering a culture of cybersecurity awareness and excellence. We organize workshops, CTF events, and training sessions to help students develop practical skills in cybersecurity.
+          Phoenix is a student-led cybersecurity club at SVPCET, dedicated to fostering a culture of cybersecurity awareness and excellence. We organize workshops, CTF events, and training sessions to help students develop practical skills in cybersecurity.
         </p>
       </div>
     </div>
