@@ -34,6 +34,11 @@ export function MentorSection() {
       name: "Om Itankar",
       image: "https://github.com/cutiepie2468/phxwebpic/blob/main/avatar/OM%20ITANKAR.jpg?raw=true",
       bio: "Om Itankar is a dedicated Data Science Intern with a background in computer engineering. He has experience as a data scientist, working with tools like Python and Power BI to analyze and visualize data."
+    },
+    {
+      name: "Shantanu Jangle",
+      image: "https://github.com/cutiepie2468/phxwebpic/blob/main/avatar/Shantanu%20Jangale.jpg?raw=true",
+      bio: "Shantanu Jangle is a cybersecurity expert specializing in penetration testing, threat intelligence, and red teaming. As a skilled ethical hacker and digital forensics analyst, he has contributed to ISAC India, SAE India, and the UK's National Crime Agency (NCA). His experience spans uncovering vulnerabilities and strengthening defenses in high-stakes environments."
     }
   ];
 
