@@ -18,7 +18,7 @@ const Note = () => {
                       >
                     <div className="w-full h-64 flex flex-col justify-between bg-gray-800/75 border-gray-700 rounded-lg border mb-6 py-5 px-4 ">
                         <div>
-                            <h4 className="text-gray-100  mb-3 font-extrabold text-2xl">Network and Network Security</h4>
+                            <h4 className="text-gray-100  mb-3 font-extrabold text-2xl"> Network Security</h4>
                             <p className="text-gray-100 text-sm text-justify">Network and network analysis involve understanding, monitoring, and securing communication systems by analyzing data flows, protocols, and traffic patterns. It focuses on identifying anomalies, detecting intrusions, and mitigating threats. Network analysis helps in threat hunting, incident response, and performance optimization.</p>
                         </div>
                         <></>
@@ -86,8 +86,8 @@ const Note = () => {
                       >
                     <div className="w-full h-64 flex flex-col justify-between bg-gray-800/75 border-gray-700 rounded-lg border mb-6 py-5 px-4">
                         <div>
-                            <h3 className="text-gray-100 leading-7 font-semibold w-11/12 text-2xl">Digital Forensics (Incidence Response)</h3><br />
-                            <p className="text-gray-100 text-sm text-justify">In the ever-evolving landscape of cyber threats, reverse engineering plays a critical role in understanding and mitigating malicious software (malware). This abstract explores the application of reverse engineering techniques in the context of malware and threat analysis.</p>
+                            <h3 className="text-gray-100 leading-7 font-semibold w-11/12 text-2xl">Digital Forensics </h3><br />
+                            <p className="text-gray-100 text-sm text-justify">Digital forensics involves the identification, collection, analysis, and preservation of digital evidence from devices, networks, and systems to investigate cyber incidents or crimes. It helps uncover the cause, scope, and impact of breaches while ensuring the evidence remains admissible in legal proceedings.</p>
                         </div>
                         
                     </div>
@@ -102,7 +102,8 @@ const Note = () => {
                     <div className="w-full h-64 flex flex-col justify-between bg-gray-600/75 border-gray-700 rounded-lg border mb-6 py-5 px-4">
                         <div>
                             <h3 className="text-gray-100 leading-7 font-semibold w-11/12 text-2xl">Bug Bounty</h3><br />
-                            <p className="text-gray-100 text-sm text-justify">The bug bounty domain focuses on finding and reporting security vulnerabilities across platforms and devices. Ethical hackers test for vulnerabilities and these programs help organizations strengthen their security by identifying and fixing vulnerabilities before they can be exploited by malicious actors.</p>
+                            <p className="text-gray-100 text-sm text-justify">Bug bounty programs are designed to identify, disclose, and assess the impact of vulnerabilities within an organization's systems, web architecture, applications, or domains. These initiatives enable organizations to address risks and remediate vulnerabilities or misconfigurations, ensuring they are not exploited by third parties or malicious actors.
+                            .</p>
                         </div>
                     </div>
                     </motion.div>
@@ -122,7 +123,7 @@ const Note = () => {
                     <div className="w-full h-64 flex flex-col justify-between items-start bg-gray-800/75 border-gray-700 rounded-lg border mb-6 py-5 px-4">
                         <div>
                             <h4 className="text-gray-100 font-bold mb-3 text-2xl">Cloud Security</h4>
-                            <p className="text-gray-100 text-sm text-justify">The Cloud Security domain focuses on securing the on-demand delivery of IT resources via the internet. This paradigm shift from on-premises infrastructure to cloud computing introduces unique security challenges and responsibilities shared between cloud service providers (CSPs) and their customers.</p>
+                            <p className="text-gray-100 text-sm text-justify">Cloud security encompasses the protection of cloud environments, including infrastructure, platforms, and software, by implementing advanced security controls such as Identity and Access Management (IAM), encryption, network segmentation, and Zero Trust architecture. It involves assessing misconfigurations in cloud services, securing APIs, monitoring for unauthorized activities, and ensuring compliance with frameworks like CIS Benchmarks, SOC 2, and ISO 27001 to prevent data breaches, privilege escalation, and other cloud-specific attack vectors.</p>
                         </div>
                     </div>
                     </motion.div>
@@ -152,7 +153,7 @@ const Note = () => {
                         <div>
                             <h4 className="text-gray-100 font-bold mb-3 text-2xl">Android Testing</h4>
                             <p className="text-gray-100 text-sm text-justify">
-                            Android testing involves evaluating the functionality, performance, security, and user experience of Android applications to ensure they work smoothly across different devices and environments. This process includes functional testing, performance testing, security testing, and UI/UX testing.</p>
+                            Android testing involves the systematic analysis of Android applications and devices to identify security vulnerabilities, misconfigurations, and potential attack vectors. This includes static and dynamic code analysis, reverse engineering, penetration testing, and evaluating application components such as activities, services, broadcast receivers, and content providers. The goal is to ensure data integrity, secure communication, and robust defense against exploitation.</p>
                         </div>
                     </div>
                     </motion.div>
