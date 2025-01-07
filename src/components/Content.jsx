@@ -41,7 +41,7 @@ const Content = () => {
                       </h2>
                       <div className="mb-6">
                         <img 
-                          src="https://raw.githubusercontent.com/utk-chand19/BannerEncipherX3.O/main/encipbanner.png" 
+                          src="https://github.com/utk-chand19/promobanner/blob/main/done.jpg?raw=true" 
                           alt="EncipherX 3.0 Banner" 
                           className="w-full rounded-lg shadow-2xl" 
                         />

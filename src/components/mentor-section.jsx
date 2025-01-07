@@ -39,6 +39,11 @@ export function MentorSection() {
       name: "Shantanu Jangle",
       image: "https://github.com/cutiepie2468/phxwebpic/blob/main/avatar/Shantanu%20Jangale.jpg?raw=true",
       bio: "Shantanu Jangle is a cybersecurity expert specializing in penetration testing, threat intelligence, and red teaming. As a skilled ethical hacker and digital forensics analyst, he has contributed to ISAC India, SAE India, and the UK's National Crime Agency (NCA). His experience spans uncovering vulnerabilities and strengthening defenses in high-stakes environments."
+    },
+    {
+      name: "Kshitij R. Barapatre",
+      image: "https://github.com/utk-chand19/kshitijsir/blob/main/Kshitij%20sir.jpeg?raw=true",
+      bio: "Kshitij R. Barapatre is a certified penetration tester and cybersecurity expert specializing in VAPT, Digital Forensics, Malware Analysis, and Android Forensics. A trainer and Board of Studies member at SVPCET, he currently works at KPMG, mentoring aspiring professionals in the field."
     }
   ];
 

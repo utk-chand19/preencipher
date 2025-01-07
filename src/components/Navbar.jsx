@@ -34,11 +34,12 @@ const Navbar = () => {
 
     const navLinks = [
         { path: '/', label: 'Home' },
+        { path: 'https://encipherx.phoenixcybersec.in/', label: 'EncipherX' },
         { path: '/domains', label: 'Our Domains' },
         { path: '/aboutus', label: 'About Us' },
         { path: '/gallery', label: 'Gallery' },
         { path: '/ourjourney', label: 'Our Journey' },
-        { path: '/team', label: 'Team' }
+        { path: '/team', label: 'Team' },
     ];
     
     return (
