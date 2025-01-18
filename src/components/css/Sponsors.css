@@ -1,0 +1,29 @@
+.sponsors-section {
+  background: transparent;
+  position: relative;
+}
+
+.sponsors-section::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.7) 0%, rgba(179, 96, 71, 0.2) 100%);
+  pointer-events: none;
+}
+
+.sponsor-logo {
+  height: 200px;
+  transition: all 0.3s ease;
+}
+
+.sponsor-item:hover .sponsor-logo {
+  box-shadow: 0 4px 20px rgba(255, 255, 255, 0.1);
+}
+
+.sponsor-logo img {
+  max-height: 150px;
+  width: auto;
+}

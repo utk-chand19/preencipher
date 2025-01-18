@@ -2,6 +2,7 @@ import React, { useCallback } from 'react';
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import Content from "../components/Content";
+import Sponsors from "../components/Sponsors";
 import { loadFull } from "tsparticles";
 import Particles from "react-tsparticles";
 
@@ -119,9 +120,10 @@ const Home = () => {
           }
         }}
       />
-      <div className="relative z-20">
+      <div className="relative z-10">
         <Navbar />
         <Content />
+        <Sponsors />
         <Footer />
       </div>
     </div>
